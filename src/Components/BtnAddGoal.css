@@ -1,0 +1,11 @@
+.BtnAddGoal{
+    height: 3rem;
+    width: 7rem;
+    background-color: rgb(171, 5, 171);
+    margin-top: 1rem;
+    font-weight: bold;
+    color: white;
+    border: none;
+    box-shadow: 1px;
+    border-radius: 3px;
+}

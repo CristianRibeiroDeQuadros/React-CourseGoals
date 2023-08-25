@@ -1,0 +1,12 @@
+.card{
+    background-color: blueviolet;
+    height: 5rem;
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    color: white;
+    font-weight: bolder;
+    padding-left: 30px;
+    width: 100%;
+    margin-top: 15px;
+}
