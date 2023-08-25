@@ -20,7 +20,7 @@ const Form = (props) => {
         <div className='formContainer'>
             <form className='form'>
                 <label>Course Goal</label>
-                <input type="text" value={goal} onChange={onChangeHandler}></input>
+                <input type="text" placeholder="Type your goal..." value={goal} onChange={onChangeHandler}></input>
                 <BtnAddGoal goal={goal} throwGoal={getGoal}></BtnAddGoal>
             </form>
             

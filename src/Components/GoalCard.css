@@ -6,7 +6,10 @@
     justify-content: start;
     color: white;
     font-weight: bolder;
-    padding-left: 30px;
     width: 100%;
     margin-top: 15px;
+}
+
+p{
+    margin-left: 30px;
 }
